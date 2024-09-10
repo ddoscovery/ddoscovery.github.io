@@ -1,4 +1,4 @@
-# DDoS-landscape-reports
+# DDoS landscape reports
 
 This repository contains a 2022 DDoS reports analysis spreadsheet, available in different formats (the main format we recommend is PDF or HTML, because of the formatting) and the report files used in the analysis.
 
