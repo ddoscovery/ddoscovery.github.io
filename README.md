@@ -1,6 +1,19 @@
 # DDoS landscape reports
 
-This repository contains a 2022 DDoS reports analysis spreadsheet, available in different formats (the main format we recommend is PDF or HTML, because of the formatting) and the report files used in the analysis.
+This site contains additional information about our work on the DDoS landscape, contrasting the academic and industrial views. Please check our work:
+
+- The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments. R. Hiesgen, M. Nawrocki, M. Barcellos, D. Kopp, O. Hohlfeld, E. Chan, R. Dobbins, C. Doerr, C. Rossow, D. Thomas, M. Jonker, R. Mok, X. Luo, J. Kristoff, T. Schmidt, M. Wählisch, K. Claffy. ACM Internet Measurement Conference ([IMC 2024](https://conferences.sigcomm.org/imc/2024/accepted-papers/)). 
+
+In the paper, we focused on reports released around 2022.
+The goal was to capture any changes in the DDoS landscape between 2021 and 2022. 
+Besides, we wanted to gather all existing reports and make them available to the community in a single place, avoiding the sharing of personal contact information.
+
+The set of reports we discuss in our paper is available in this folder: [2022](https://github.com/ddoscovery/ddoscovery.github.io/tree/main/2022). 
+We will keep adding reports, before and after 2022.
+The reports are in different file formats, depending on how the report was released: PDF, HTML, and Images (infographic).
+
+We provide a **comparison table** that greatly extends the data provided in the paper. 
+The table is available in different formats; we recommend the use of PDF or HTML.
 
 - [PDF](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.pdf)
 - [HTML](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.html)
@@ -8,10 +21,11 @@ This repository contains a 2022 DDoS reports analysis spreadsheet, available in 
 - [Numbers](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.numbers)
 - [CSV](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.csv)
   
+## Table
 
 **Page info.**
-In the spreadsheet, we add page number information (e.g. "p3:") to allow the reader to easily locate the information in the original document.
-However, we could only provide page numbers for PDFs, since the HTML file does not have the distinction of pages.
+In the table, we add page number information (e.g. "p3:") to allow the reader to easily locate the information in the report.
+However, we could only provide page numbers for reports in PDF format since the HTML file does not have the distinction of pages.
 In the case of HTML, we indicate names of sections whenever possible.
 
 **URLs.**
@@ -22,7 +36,6 @@ To prevent the loss of information, we provide a snapshot of the information col
 **Format.**
 Text in _italics_ represents our interpretation/view, while **bold** is used for highlighting. The table spans three pages, with an additional page/row with a global analysis for each column.
 
-## Table
 The table has the following columns.
 
 ### VENDOR
