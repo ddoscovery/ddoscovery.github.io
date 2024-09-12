@@ -1,4 +1,3 @@
-# DDoS landscape reports
 
 This site contains additional information about our work on the DDoS landscape, contrasting the academic and industrial views. Please check our work:
 
