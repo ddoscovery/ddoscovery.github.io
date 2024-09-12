@@ -2,6 +2,13 @@
 
 This repository contains a 2022 DDoS reports analysis spreadsheet, available in different formats (the main format we recommend is PDF or HTML, because of the formatting) and the report files used in the analysis.
 
+- [PDF](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.pdf)
+- [HTML](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.html)
+- [XLS](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.xlsx)
+- [Numbers](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.numbers)
+- [CSV](https://github.com/ddoscovery/ddoscovery.github.io/blob/main/Summary%20of%20DDoS%20Industry%20Reports%202022.csv)
+  
+
 **Page info.**
 In the spreadsheet, we add page number information (e.g. "p3:") to allow the reader to easily locate the information in the original document.
 However, we could only provide page numbers for PDFs, since the HTML file does not have the distinction of pages.
